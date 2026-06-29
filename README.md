@@ -137,4 +137,4 @@ Then open `http://localhost:8501` in Chrome.
 
 ## Authors
 
-Shreyas Parashar · [Partner Name] — CSCI370, Spring 2026
+Shreyas Parashar · Sushma Geddam — CSCI370, Spring 2026
