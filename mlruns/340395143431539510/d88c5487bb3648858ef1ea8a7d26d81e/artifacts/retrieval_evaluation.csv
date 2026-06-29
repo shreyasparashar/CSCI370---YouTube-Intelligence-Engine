@@ -1,0 +1,25 @@
+query,method,precision_at_5,relevant_results,total_results
+What do users think about Sony XM6 headphones?,SEMANTIC,1.0,5,5
+What do users think about Sony XM6 headphones?,BM25,0.6,3,5
+What do users think about Sony XM6 headphones?,HYBRID,1.0,5,5
+What do users say about Google Pixel phones?,SEMANTIC,0.8,4,5
+What do users say about Google Pixel phones?,BM25,1.0,5,5
+What do users say about Google Pixel phones?,HYBRID,1.0,5,5
+What do users think about Garmin smartwatches?,SEMANTIC,1.0,5,5
+What do users think about Garmin smartwatches?,BM25,1.0,5,5
+What do users think about Garmin smartwatches?,HYBRID,1.0,5,5
+What comfort issues do users mention about Sony XM6 headphones?,SEMANTIC,0.6,3,5
+What comfort issues do users mention about Sony XM6 headphones?,BM25,0.0,0,5
+What comfort issues do users mention about Sony XM6 headphones?,HYBRID,0.0,0,5
+What reliability issues do users mention about Google Pixel phones?,SEMANTIC,0.4,2,5
+What reliability issues do users mention about Google Pixel phones?,BM25,0.0,0,5
+What reliability issues do users mention about Google Pixel phones?,HYBRID,0.2,1,5
+What do users say about Garmin battery life?,SEMANTIC,1.0,5,5
+What do users say about Garmin battery life?,BM25,1.0,5,5
+What do users say about Garmin battery life?,HYBRID,1.0,5,5
+What do users say about Apple Watch fitness features?,SEMANTIC,0.6,3,5
+What do users say about Apple Watch fitness features?,BM25,0.6,3,5
+What do users say about Apple Watch fitness features?,HYBRID,0.4,2,5
+What do users say about iPhone camera quality?,SEMANTIC,1.0,5,5
+What do users say about iPhone camera quality?,BM25,0.6,3,5
+What do users say about iPhone camera quality?,HYBRID,1.0,5,5

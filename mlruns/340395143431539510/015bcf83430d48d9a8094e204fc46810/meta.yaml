@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/CSCI370/mlruns/340395143431539510/015bcf83430d48d9a8094e204fc46810/artifacts
+end_time: 1782340130265
+entry_point_name: ''
+experiment_id: '340395143431539510'
+lifecycle_stage: active
+run_id: 015bcf83430d48d9a8094e204fc46810
+run_name: hybrid_retrieval
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782340128302
+status: 3
+tags: []
+user_id: root

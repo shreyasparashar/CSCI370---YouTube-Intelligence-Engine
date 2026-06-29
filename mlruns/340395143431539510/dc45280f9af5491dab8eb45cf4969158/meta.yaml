@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/CSCI370/mlruns/340395143431539510/dc45280f9af5491dab8eb45cf4969158/artifacts
+end_time: 1782340142482
+entry_point_name: ''
+experiment_id: '340395143431539510'
+lifecycle_stage: active
+run_id: dc45280f9af5491dab8eb45cf4969158
+run_name: final_routed_engine
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782340141734
+status: 3
+tags: []
+user_id: root

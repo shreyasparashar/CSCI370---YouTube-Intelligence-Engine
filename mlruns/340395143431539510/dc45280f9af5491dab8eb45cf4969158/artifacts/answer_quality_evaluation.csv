@@ -1,0 +1,6 @@
+query,routing_correct,evidence_relevance_at_5,label_faithful_interpretation,notes
+XM6 comfort,1,0.6,1,Three direct XM6 comfort comments; two XM5 comparison comments.
+Pixel reliability,1,0.4,1,Two direct reliability comments; other retrieved comments are broad Pixel opinions.
+Garmin battery life,1,1.0,1,All retrieved comments discuss Garmin battery life.
+Garmin opinions,1,1.0,1,Hybrid retrieval returned relevant broad Garmin opinions.
+iPhone 16 Pro Max camera mentions,1,1.0,1,BM25 returned exact model-and-camera mentions.

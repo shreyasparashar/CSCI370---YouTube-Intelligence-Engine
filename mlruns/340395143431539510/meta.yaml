@@ -1,0 +1,9 @@
+artifact_location: file:///content/drive/MyDrive/CSCI370/mlruns/340395143431539510
+creation_time: 1782340097416
+effective_trace_archival_retention: null
+experiment_id: '340395143431539510'
+last_update_time: 1782340097416
+lifecycle_stage: active
+name: YouTube_RAG_Retrieval_Evaluation
+trace_location: null
+workspace: default

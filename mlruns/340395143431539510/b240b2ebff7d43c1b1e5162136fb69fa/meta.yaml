@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/CSCI370/mlruns/340395143431539510/b240b2ebff7d43c1b1e5162136fb69fa/artifacts
+end_time: 1782340128224
+entry_point_name: ''
+experiment_id: '340395143431539510'
+lifecycle_stage: active
+run_id: b240b2ebff7d43c1b1e5162136fb69fa
+run_name: semantic_retrieval
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782340126698
+status: 3
+tags: []
+user_id: root

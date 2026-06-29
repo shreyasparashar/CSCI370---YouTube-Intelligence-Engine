@@ -1,0 +1,9 @@
+run_id,tags.mlflow.runName,params.retrieval_method,metrics.mean_precision_at_5,metrics.routing_accuracy,metrics.mean_evidence_relevance,metrics.label_faithful_interpretation
+5f9f48b1ce14411d9e8965223bbeffda,final_routed_engine,,,1.0,0.8,1.0
+ff34cc9fbda24220a01705658e7ef6d3,bm25_retrieval,bm25,0.6,,,
+3c5fd533b34741988b76ab15c7c814fa,hybrid_retrieval,hybrid,0.7,,,
+28ec77681cef477ebd2dafa600191755,semantic_retrieval,semantic,0.8,,,
+dc45280f9af5491dab8eb45cf4969158,final_routed_engine,,,1.0,0.8,1.0
+d88c5487bb3648858ef1ea8a7d26d81e,bm25_retrieval,bm25,0.6,,,
+015bcf83430d48d9a8094e204fc46810,hybrid_retrieval,hybrid,0.7,,,
+b240b2ebff7d43c1b1e5162136fb69fa,semantic_retrieval,semantic,0.8,,,
