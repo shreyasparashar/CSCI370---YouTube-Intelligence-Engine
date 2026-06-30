@@ -10,7 +10,7 @@ An end-to-end NLP pipeline that extracts insights from YouTube tech review comme
 You type a question like *"What comfort issues do users mention about Sony XM6 headphones?"* and the system:
 1. Routes the query to the best retrieval strategy (semantic, BM25, or hybrid)
 2. Pulls the most relevant real comments from a 24,000+ comment dataset
-3. Generates a grounded answer using Qwen2.5-1.5B-Instruct — constrained to only use the retrieved evidence
+3. Generates a grounded answer using Qwen2.5-1.5B-Instruct constrained to only use the retrieved evidence
 4. Shows you the sentiment breakdown, retrieved comments, and MLflow evaluation metrics
 
 ---
